@@ -1,0 +1,8 @@
+[core]
+    remote = owncloud_remote
+['remote "myremote"']
+    url = https://github.com/yshyam787/Data-Version-Control
+['remote "owncloud_remote"']
+    url = https://owncloud.gwdg.de/remote.php/nonshib-webdav/DVC
+    user = srayyad
+    password = Lovemamapapa123@
